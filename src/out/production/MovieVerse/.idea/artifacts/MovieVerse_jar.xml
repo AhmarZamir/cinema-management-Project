@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MovieVerse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MovieVerse_jar</output-path>
+    <root id="archive" name="MovieVerse.jar">
+      <element id="module-output" name="MovieVerse" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JCalendar.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mysql-connector.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
